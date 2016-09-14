@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="home_email">Email</string>
+    <string name="home_name">Nome</string>
+    <string name="home_connect">Conectar</string>
+    <string name="toast_home_fill_all_fields">Preencha todos os campos</string>
+</resources>
